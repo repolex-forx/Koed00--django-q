@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Koed00/django-q/commit/85baaccd2c3adfe0a414d4237465163e9ff6e5a0",
       "git:hexsha": "85baaccd2c3adfe0a414d4237465163e9ff6e5a0",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T06:30:19.388606+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Koed00/django-q/commit/28d57cb03b9aebd6a2fc1f16cd3e9db1b2e08c39",
